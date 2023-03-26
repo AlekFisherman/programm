@@ -1,0 +1,15 @@
+/Users/handsomealek/Desktop/programm/bin/Debug/net6.0/programm
+/Users/handsomealek/Desktop/programm/bin/Debug/net6.0/programm.deps.json
+/Users/handsomealek/Desktop/programm/bin/Debug/net6.0/programm.runtimeconfig.json
+/Users/handsomealek/Desktop/programm/bin/Debug/net6.0/programm.dll
+/Users/handsomealek/Desktop/programm/bin/Debug/net6.0/programm.pdb
+/Users/handsomealek/Desktop/programm/obj/Debug/net6.0/programm.csproj.AssemblyReference.cache
+/Users/handsomealek/Desktop/programm/obj/Debug/net6.0/programm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/handsomealek/Desktop/programm/obj/Debug/net6.0/programm.AssemblyInfoInputs.cache
+/Users/handsomealek/Desktop/programm/obj/Debug/net6.0/programm.AssemblyInfo.cs
+/Users/handsomealek/Desktop/programm/obj/Debug/net6.0/programm.csproj.CoreCompileInputs.cache
+/Users/handsomealek/Desktop/programm/obj/Debug/net6.0/programm.dll
+/Users/handsomealek/Desktop/programm/obj/Debug/net6.0/refint/programm.dll
+/Users/handsomealek/Desktop/programm/obj/Debug/net6.0/programm.pdb
+/Users/handsomealek/Desktop/programm/obj/Debug/net6.0/programm.genruntimeconfig.cache
+/Users/handsomealek/Desktop/programm/obj/Debug/net6.0/ref/programm.dll
